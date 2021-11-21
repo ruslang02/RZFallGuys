@@ -1,5 +1,5 @@
 ## Garifullin Ruslan БПИ191
-
+![screenshot](./screenshot.png)
 #### Home Assignment 1
 
 This game is a third-person view 3D platform game with levels which are generated procedurally.
